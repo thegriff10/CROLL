@@ -1,7 +1,7 @@
 {
     "name": "Cinnamon Roll Token",
     "symbol": "CROLL",
-    "uri": "https://plum-recent-pinniped-830.mypinata.cloud/files/bafkreieejjklq3qastnsnpio3si5pj3jmiqvfhp4j6lxstdhk2axq4mv3a?X-Algorithm=PINATA1&X-Date=1733706780&X-Expires=30&X-Method=GET&X-Signature=1baaaf61d60297fd5a3583ec7c0e165558cd22c7178488af7a45d99b5ab746cf",
+    "uri": "https://raw.githubusercontent.com/thegriff10/CINNR/refs/heads/main/cinnroll.png",
     "seller_fee_basis_points": 500,
     "creators": [
         {
