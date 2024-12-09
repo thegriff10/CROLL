@@ -1,12 +1,17 @@
 {
     "name": "Cinnamon Roll Token",
     "symbol": "CROLL",
-    "uri": "https://raw.githubusercontent.com/thegriff10/CROLL/refs/heads/main/cinnroll.png",
+    "description": "A delicious cinnamon roll token!",
+    "image": "https://raw.githubusercontent.com/thegriff10/CROLL/refs/heads/main/cinnroll.png",
     "seller_fee_basis_points": 500,
-    "creators": [
-        {
-            "address": "cinZieiDn5nSTAp6ad8yTP8yPjDpvYUSpLBX1AqyGYV",
-            "share": 100
-        }
-    ]
+    "attributes": [],
+    "properties": {
+        "creators": [
+            {
+                "address": "cinZieiDn5nSTAp6ad8yTP8yPjDpvYUSpLBX1AqyGYV",
+                "share": 100
+            }
+        ]
+    }
 }
+
