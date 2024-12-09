@@ -1,0 +1,12 @@
+{
+    "name": "Cinnamon Roll Token",
+    "symbol": "CROLL",
+    "uri": "ipfs://bafkreieejjklq3qastnsnpio3si5pj3jmiqvfhp4j6lxstdhk2axq4mv3a",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {
+            "address": "ChJJp1gCKkSbGH3DB7eZA6DLv9J57Qs8KMAXyzc4a6cH",
+            "share": 100
+        }
+    ]
+}
