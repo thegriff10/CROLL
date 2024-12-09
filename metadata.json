@@ -1,7 +1,7 @@
 {
     "name": "Cinnamon Roll Token",
     "symbol": "CROLL",
-    "uri": "https://raw.githubusercontent.com/thegriff10/CINNR/refs/heads/main/cinnroll.png",
+    "uri": "https://raw.githubusercontent.com/thegriff10/CROLL/refs/heads/main/cinnroll.png",
     "seller_fee_basis_points": 500,
     "creators": [
         {
